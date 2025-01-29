@@ -1,4 +1,4 @@
-# Modelo de Fatiga Facial
+# Modelo de Fatiga Facial 
 
 Este repositorio contiene notebooks para el desarrollo y prueba de un modelo de detección de fatiga facial utilizando un dataset descargado de Kaggle.
 
