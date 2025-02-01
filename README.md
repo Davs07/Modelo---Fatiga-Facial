@@ -5,6 +5,7 @@ Este repositorio contiene notebooks y scripts para el desarrollo y prueba de un 
 ## Contenido
 
 - `Modelo_Fatiga_Facial.ipynb`: Notebook para configurar y descargar el dataset desde Kaggle, necesario para entrenar el modelo de detección de fatiga facial.
+  [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davs07/Modelo---Fatiga-Facial/blob/main/Modelo_Fatiga_Facial.ipynb](https://colab.research.google.com/drive/1mJR6gg4PRB6J-4RIRhiHDZGsy1bSRCce?usp=sharing))
 - `Prueba_Modelo_Fatiga.ipynb`: Notebook para probar el modelo TFLite de detección de fatiga facial utilizando imágenes de prueba.
 - `main.py`: Script que implementa un sistema de detección de fatiga en tiempo real utilizando la cámara web.
 
