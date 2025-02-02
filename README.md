@@ -4,6 +4,8 @@ Este repositorio contiene enlaces de notebooks y scripts para el desarrollo y pr
 
 ## Contenido
 - `main.py`: Script que implementa un sistema de detección de fatiga en tiempo real utilizando la cámara web.
+- `my_model.h5`: Modelo de deep learning entrenado para la detección de fatiga facial.
+- `my_model.tflite`: Modelo TFLite optimizado para la detección de fatiga facial.
 
 ## Notebooks
 - `Modelo_Fatiga_Facial.ipynb`: Notebook para configurar y descargar el dataset desde Kaggle, necesario para entrenar el modelo de detección de fatiga facial.
