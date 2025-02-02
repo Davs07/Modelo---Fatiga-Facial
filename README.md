@@ -44,8 +44,8 @@ Este proyecto tiene como objetivo desarrollar un modelo que pueda detectar signo
    cd Modelo---Fatiga-Facial
 
 2. Abre los notebooks en Google Colab:
-   - [Modelo_Fatiga_Facial.ipynb](https://colab.research.google.com/github/Davs07/Modelo---Fatiga-Facial/blob/main/Modelo_Fatiga_Facial.ipynb)
-   - [Prueba_Modelo_Fatiga.ipynb](https://colab.research.google.com/github/Davs07/Modelo---Fatiga-Facial/blob/main/Prueba_Modelo_Fatiga.ipynb)
+   - [Modelo_Fatiga Facial](https://colab.research.google.com/drive/1mJR6gg4PRB6J-4RIRhiHDZGsy1bSRCce?usp=sharing)
+   - [Prueba del Modelo](https://colab.research.google.com/drive/1mJR6gg4PRB6J-4RIRhiHDZGsy1bSRCce?usp=sharing)
 
 3. Sigue las instrucciones en los notebooks para configurar las credenciales de Kaggle, descargar el dataset, y realizar el entrenamiento y prueba del modelo.
 
